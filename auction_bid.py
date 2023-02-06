@@ -1,7 +1,6 @@
 import os
 clear = lambda: os.system('cls')
 
-
 bids = {}
 bidding_finished = False
 
